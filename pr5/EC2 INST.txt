@@ -1,0 +1,5 @@
+Public IPv4 address - 44.221.43.130
+Private IP DNS name (IPv4 only)
+ip-172-31-64-251.ec2.internal
+Username - Administrator
+Password - r-B==oT-jkXIg;Wvya5w)lhsuJgJ7YFi
